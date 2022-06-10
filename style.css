@@ -1,0 +1,66 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    color: brown;
+}
+#hamburger {
+
+    float: left;
+    height: 40px;
+    width: 35px;
+}
+
+#boss{
+    float: right;
+}
+
+
+body {
+    background-color: white;
+}
+h2 {
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    text-align:left;
+    font-size: 13px;
+    color: black;
+    height: 10px;
+}
+
+
+#subomi {
+                width: 500px;
+                height: 500px;
+                float:right;
+                
+    }
+
+
+#one {
+    background-color: aqua;
+
+}
+.box {
+    height: 330px;
+    position: relative;
+}
+.m-4 {
+    margin: 1.5rem!important;
+    margin-top: 1.5rem !important;
+    margin-right: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+    margin-left: 1.5rem !important;
+}
+
+.homepage {
+    height: 100vh;
+    max-width: 100%;
+    background-image: url('/rainy.jpg');
+    background-size: cover;
+    background-position:center ;
+}
